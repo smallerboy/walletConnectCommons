@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.description      = 'walletConnect commons'
 
-  s.homepage         = 'https://github.com/smallerboy/walletConnectCommons/tree/main'
+  s.homepage         = 'https://github.com/smallerboy/walletConnectCommons'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'david zhang,' => 'zmao008@gmail.com' }
   s.source           = { :git => 'https://github.com/smallerboy/walletConnectCommons.git', :tag => s.version.to_s }
